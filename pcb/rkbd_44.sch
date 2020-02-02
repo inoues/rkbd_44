@@ -356,15 +356,15 @@ Text GLabel 5230 4170 2    50   Input ~ 0
 col7
 Text GLabel 5230 4070 2    50   Input ~ 0
 col8
-Text GLabel 5240 3970 2    50   Input ~ 0
+Text GLabel 4230 2990 2    50   Input ~ 0
 col9
-Text GLabel 5240 3870 2    50   Input ~ 0
+Text GLabel 4225 2790 2    50   Input ~ 0
 col10
 Text GLabel 4530 2825 2    50   Input ~ 0
 row3
 Text GLabel 4955 1945 2    50   Input ~ 0
 row2
-Text GLabel 4935 1545 2    50   Input ~ 0
+Text GLabel 4230 2490 2    50   Input ~ 0
 row0
 Wire Wire Line
 	4125 1490 4230 1490
@@ -386,11 +386,11 @@ Wire Wire Line
 	4125 1890 4250 1890
 Wire Wire Line
 	4265 3090 4125 3090
-Text GLabel 5235 3770 2    50   Input ~ 0
+Text GLabel 4225 2690 2    50   Input ~ 0
 col11
 Text GLabel 4500 2525 2    50   Input ~ 0
 col1
-Text GLabel 4500 2425 2    50   Input ~ 0
+Text GLabel 4950 2320 2    50   Input ~ 0
 col0
 Text GLabel 4535 3025 2    50   Input ~ 0
 row1
@@ -507,7 +507,7 @@ Wire Wire Line
 	2460 1290 2745 1290
 Wire Wire Line
 	1970 1290 2060 1290
-Text GLabel 5065 2835 2    50   Input ~ 0
+Text GLabel 4230 2590 2    50   Input ~ 0
 col12
 Connection ~ 3425 4590
 Connection ~ 3525 990 
