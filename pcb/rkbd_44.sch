@@ -344,32 +344,28 @@ U 5E2D9411
 F0 "matrix" 50
 F1 "matrix.sch" 50
 $EndSheet
-Text GLabel 4495 2725 2    50   Input ~ 0
+Text GLabel 4265 3990 2    50   Input ~ 0
 col3
-Text GLabel 4500 2925 2    50   Input ~ 0
+Text GLabel 4265 4090 2    50   Input ~ 0
 col4
-Text GLabel 4935 1645 2    50   Input ~ 0
+Text GLabel 4265 4190 2    50   Input ~ 0
 col5
-Text GLabel 5230 4270 2    50   Input ~ 0
+Text GLabel 4125 1690 2    50   Input ~ 0
 col6
-Text GLabel 5230 4170 2    50   Input ~ 0
+Text GLabel 4265 3090 2    50   Input ~ 0
 col7
-Text GLabel 5230 4070 2    50   Input ~ 0
+Text GLabel 4260 2890 2    50   Input ~ 0
 col8
 Text GLabel 4230 2990 2    50   Input ~ 0
 col9
 Text GLabel 4225 2790 2    50   Input ~ 0
 col10
-Text GLabel 4530 2825 2    50   Input ~ 0
+Text GLabel 4125 2290 2    50   Input ~ 0
 row3
-Text GLabel 4955 1945 2    50   Input ~ 0
+Text GLabel 4125 2190 2    50   Input ~ 0
 row2
 Text GLabel 4230 2490 2    50   Input ~ 0
 row0
-Wire Wire Line
-	4125 1490 4230 1490
-Wire Wire Line
-	4125 1590 4230 1590
 Wire Wire Line
 	4265 4190 4125 4190
 Wire Wire Line
@@ -383,18 +379,12 @@ Wire Wire Line
 Wire Wire Line
 	4230 2490 4125 2490
 Wire Wire Line
-	4125 1890 4250 1890
-Wire Wire Line
 	4265 3090 4125 3090
 Text GLabel 4225 2690 2    50   Input ~ 0
 col11
-Text GLabel 4500 2525 2    50   Input ~ 0
-col1
-Text GLabel 4950 2320 2    50   Input ~ 0
-col0
-Text GLabel 4535 3025 2    50   Input ~ 0
+Text GLabel 4125 3190 2    50   Input ~ 0
 row1
-Text GLabel 4495 2625 2    50   Input ~ 0
+Text GLabel 4275 3890 2    50   Input ~ 0
 col2
 Wire Wire Line
 	4125 2690 4225 2690
@@ -412,11 +402,7 @@ Wire Wire Line
 	4125 3990 4265 3990
 NoConn ~ 2925 1890
 NoConn ~ 4125 1990
-NoConn ~ 4125 2190
-NoConn ~ 4125 1690
 NoConn ~ 4125 1790
-NoConn ~ 4125 2290
-NoConn ~ 4125 3190
 NoConn ~ 4125 3490
 NoConn ~ 1460 4405
 NoConn ~ 1460 4805
@@ -547,4 +533,11 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega
 	1    0    0    -1  
 $EndComp
 NoConn ~ 4125 1390
+Text GLabel 4270 3690 2    50   Input ~ 0
+col0
+Text GLabel 4275 3790 2    50   Input ~ 0
+col1
+NoConn ~ 4125 1490
+NoConn ~ 4125 1590
+NoConn ~ 4125 1890
 $EndSCHEMATC
